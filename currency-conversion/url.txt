@@ -1,0 +1,5 @@
+Currency Exchange
+http://localhost:8000/currency-exchange/from/{from}/to/{to}
+
+Currency Conversion
+http://localhost:8000/currency-conversion/from/{from}/to/{to}/quantity/10
